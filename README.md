@@ -9,7 +9,7 @@ Original Project Page.
 https://code.google.com/p/bullet-xna/
 
 Original Code Repository.
-http://bullet-xna.googlecode.com/svn/trunk/ bullet-xna-read-only
+http://bullet-xna.googlecode.com/svn/trunk/bullet-xna-read-only
 
 How to use.
 
